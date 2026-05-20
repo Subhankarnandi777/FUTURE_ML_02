@@ -460,20 +460,6 @@ Organizations can:
 
 ---
 
-# 🎓 Internship Project
-
-Developed as part of:
-
-## Machine Learning Task 2 (2026)
-
-by [Future Interns](https://www.linkedin.com/company/future-interns/?utm_source=chatgpt.com)
-
-### Topic:
-
-# Support Ticket Classification & Prioritization
-
----
-
 # 👨‍💻 Author
 
 ## Subhankar Nandi
